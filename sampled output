@@ -1,0 +1,16 @@
+Enter number of students: 2
+
+Student 1
+Enter ID: 201
+Enter Name: Anjali
+Enter Marks: 88.5
+
+Student 2
+Enter ID: 202
+Enter Name: Suresh
+Enter Marks: 76
+
+Student Records
+ID      Name    Marks
+201     Anjali  88.50
+202     Suresh  76.00
